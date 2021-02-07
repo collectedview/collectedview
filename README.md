@@ -1,6 +1,6 @@
 # Collectedview
 
-Digital Developer [@MrSmithAgency](https://twitter.com/MrSmithAgency). Engineering — WordPress, Shopify, React, JavaScript, Node & Cloud Native software experiences built to scale.
+Digital Developer [@MrSmithAgency](https://mrsmith.agency/). Engineering — WordPress, Shopify, React, JavaScript, Node & Cloud Native software experiences built to scale.
 
 [collectedview.io](https://collectedview.io/)
 
