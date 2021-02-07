@@ -1,16 +1,22 @@
-### Hi there 👋
+## Collectedview
 
-<!--
-**collectedview/collectedview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Developer [@MrSmithAgency](https://twitter.com/MrSmithAgency). Engineering — WordPress, Shopify, React, JavaScript, Node & Cloud Native software experiences built to scale.
 
-Here are some ideas to get you started:
+[collectedview.io](https://collectedview.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Hello, My Name Is Joe Alongi
+Engineering performant applications for thoroughly architected user experiences. Creating modern interfaces from researched data streams focused on awareness of common user choices.  
+  
+Applicating business and organizational logic into agile software practices. Empowering businesses to convert, inform, and enhance with communicative arts.  
+  
+Simplifying technology to reach affinity users. Enhancing customer-driven solutions to increase coverage of essential product experiences.  
+  
+Improving efficiency of business practices through communicative technology. Delivering cloud native atmospheres for providing global access from devices around the world.
+
+#### Connect
+[Twitter](https://twitter.com/collectedview)
+[GitHub](https://github.com/collectedview)
+[Medium](https://collectedview.medium.com/)
+[Instagram](https://www.instagram.com/collectedview/)
+
+
