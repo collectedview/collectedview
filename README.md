@@ -1,4 +1,4 @@
-## Collectedview
+# Collectedview
 
 Digital Developer [@MrSmithAgency](https://twitter.com/MrSmithAgency). Engineering — WordPress, Shopify, React, JavaScript, Node & Cloud Native software experiences built to scale.
 
@@ -14,9 +14,7 @@ Simplifying technology to reach affinity users. Enhancing customer-driven soluti
 Improving efficiency of business practices through communicative technology. Delivering cloud native atmospheres for providing global access from devices around the world.
 
 #### Connect
-[Twitter](https://twitter.com/collectedview)
-[GitHub](https://github.com/collectedview)
-[Medium](https://collectedview.medium.com/)
-[Instagram](https://www.instagram.com/collectedview/)
-
-
+[Twitter](https://twitter.com/collectedview)  
+[GitHub](https://github.com/collectedview)  
+[Medium](https://collectedview.medium.com/)  
+[Instagram](https://www.instagram.com/collectedview/)  
