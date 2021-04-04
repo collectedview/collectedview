@@ -1,6 +1,6 @@
 # Collectedview
 
-Software Engineer — React, JavaScript, Node, Cloud Native, & Kubernetes. Built to scale, designed to impact, and formatted to establish.
+Software Engineer — React, JavaScript, Node, Kubernetes & Cloud Native experiences built to scale. Coffee connoisseur. Note-booking nomenclature.
 
 [collectedview.io](https://collectedview.io/)
 
