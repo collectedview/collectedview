@@ -1,6 +1,6 @@
 # Collectedview
 
-Software Engineer — React, JavaScript, Node, Kubernetes & Cloud Native experiences built to scale.
+Full Stack Software Engineer — React, JavaScript, Node, NoSQL, Kubernetes & Cloud Native experiences built to scale.
 
 [collectedview.io](https://collectedview.io/)
 
